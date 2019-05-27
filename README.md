@@ -14,7 +14,7 @@ and then pod install.
 Login in your Facebook developer Account using  https://developers.facebook.com/docs/facebook-login/ios/
 
 Create New App
-Add Your Bundle Identifire.
+Add Your Bundle identifiers.
 
 After that you get FbId then copy that
 
